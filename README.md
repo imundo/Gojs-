@@ -1,4 +1,9 @@
+<h2>Agregar dependencia a tu Index.html</h2>
 
+        <!-- AngularJS -->
+         <script src="bower_components/gojs/release/go.js"></script>
+    
+    
 <h2>Agregar como directiva</h2>
 
         .directive('goDiagram', function() {

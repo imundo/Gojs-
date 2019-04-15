@@ -1,7 +1,7 @@
 
 <h2>Agregar como directiva</h2>
 
-.directive('goDiagram', function() {
+        .directive('goDiagram', function() {
         return {
             restrict: 'E',
             template: '<div></div>',  // just an empty DIV element
@@ -41,7 +41,7 @@
                             "undoManager.isEnabled": false
                         });
                           
-//                       diagram.initialContentAlignment = go.Spot.Center;
+        //              diagram.initialContentAlignment = go.Spot.Center;
                        diagram.requestUpdate(); // Needed!
                 function updateAngular(e) {
                     if (e.isTransactionFinished) {
@@ -92,7 +92,6 @@
             }
         };
     })
-```
 
 
 <h2>Minimal Sample</h2>

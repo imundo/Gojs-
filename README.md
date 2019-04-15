@@ -50,29 +50,3 @@ Graphs are constructed by creating one or more templates, with desired propertie
 </script>
 ```
 
-Creates this graph. The user can now click on nodes or links to select them, copy-and-paste them, drag them, delete them, scroll, pan, and zoom, with a mouse or with fingers.
-
-[<img width="200" height="200" src="https://gojs.net/latest/assets/images/screenshots/minimal.png">](https://gojs.net/latest/samples/minimal.html)
-
-*Click the image to see the interactive GoJS Diagram*
-
-
-<h2>Support</h2>
-
-Northwoods Software offers a month of free developer-to-developer support for GoJS to help you get started on your project.
-
-Read and search the official <a href="https://forum.nwoods.com/c/gojs">GoJS forum</a> for any topics related to your questions.
-
-Posting in the forum is the fastest and most effective way of obtaining support for any GoJS related inquiries.
-Please register for support at Northwoods Software's <a href="https://www.nwoods.com/products/register.html">registration form</a> before posting in the forum.
-
-For any nontechnical questions about GoJS, such as about sales or licensing,
-please visit Northwoods Software's <a href="https://www.nwoods.com/contact.html">contact form</a>.
-
-
-<h2>License</h2>
-
-The GoJS <a href="https://gojs.net/latest/license.html">software license</a>.
-
-
-Copyright (c) Northwoods Software Corporation

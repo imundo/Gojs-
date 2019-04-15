@@ -1,6 +1,4 @@
 
-This repository contains both the library and the sources for all samples, extensions, and documentation.
-You can use the GitHub repository to quickly [search through all of the sources](https://github.com/NorthwoodsSoftware/GoJS-Samples/search?q=setDataProperty&type=Code).
 
 <h2>Minimal Sample</h2>
 
